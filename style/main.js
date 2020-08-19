@@ -13,7 +13,7 @@
             //setTimeout(function(){
             animation_check();
             //}, 500);
-         })
+         });
 
           (function($) {
             'use strict'
